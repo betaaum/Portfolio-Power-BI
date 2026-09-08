@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Imagens/logotipo-Oracle-AgroWater.jpg" width="300">
+</p>
+
 # 📊 Oracle AgroWater — Dashboard de Vendas
 
 > Projeto de Business Intelligence desenvolvido em Power BI para análise do desempenho comercial de uma empresa fictícia do segmento de equipamentos e soluções para irrigação agrícola.
