@@ -46,25 +46,25 @@ Os dados utilizados são **simulados** e foram desenvolvidos exclusivamente para
 
 Visão consolidada do desempenho comercial, com evolução da receita, principais produtos e ranking de vendedores.
 
-![Visão Geral](imagens/01%20-%20Visao%20Geral.jpg)
+![Visão Geral](Imagens/01%20-%20Visao%20Geral.jpg)
 
 ### Produtos
 
 Análise de receita, margem e quantidade vendida por categoria, produto e marca.
 
-![Produtos](imagens/02%20-%20Produtos.jpg)
+![Produtos](Imagens/02%20-%20Produtos.jpg)
 
 ### Comercial
 
 Análise do desempenho das filiais e vendedores, incluindo receita, margem e ticket médio.
 
-![Comercial](imagens/03%20-%20Comercial.jpg)
+![Comercial](Imagens/03%20-%20Comercial.jpg)
 
 ### Regionais
 
 Análise da participação da receita, quantidade vendida, receita e margem por filial.
 
-![Regionais](imagens/04%20-%20Regionais.jpg)
+![Regionais](Imagens/04%20-%20Regionais.jpg)
 
 ---
 
