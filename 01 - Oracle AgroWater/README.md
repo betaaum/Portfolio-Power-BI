@@ -84,7 +84,7 @@ Análise da participação da receita, quantidade vendida, receita e margem por 
 
 O projeto utiliza **modelagem dimensional com modelo estrela**, tendo `F_Vendas` como tabela fato e dimensões para clientes, produtos, vendedores, filiais e calendário.
 
-![Modelo de Dados](imagens/Modelo.jpg)
+![Modelo de Dados](Imagens/Modelo.jpg)
 
 ---
 
