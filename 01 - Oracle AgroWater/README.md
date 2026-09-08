@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Imagens/logotipo-Oracle-AgroWater.jpg" width="300">
+  <img src="Imagens/Logotipo-Oracle-AgroWater.jpg" width="300">
 </p>
 
 # 📊 Oracle AgroWater — Dashboard de Vendas
