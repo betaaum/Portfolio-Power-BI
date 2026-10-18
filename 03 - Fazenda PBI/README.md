@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Imagens/logo_fazenda_pbi.png" alt="Fazenda PBI" width="300">
+  <img src="Imagens/logo_fazenda_pbi.jpg" alt="Fazenda PBI" width="300">
 </div>
 
 # 🌱 Fazenda PBI — Gestão e Eficiência da Irrigação
