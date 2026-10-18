@@ -116,8 +116,6 @@ COUNTROWS(
 
 O projeto apresenta uma solução de Business Intelligence aplicada ao contexto agrícola, reunindo indicadores hídricos e operacionais em quatro páginas interativas para apoiar a análise da irrigação e do consumo de energia.
 
-Os dados são sintéticos e têm finalidade demonstrativa.
-
 ---
 
-> **Projeto fictício:** a Oracle AgroWater e todos os dados apresentados neste projeto são simulados e foram desenvolvidos exclusivamente para fins de estudo e demonstração de conhecimentos em Business Intelligence.
+> **Projeto fictício:** a Fazenda PBI e todos os dados apresentados neste projeto são simulados e foram desenvolvidos exclusivamente para fins de estudo e demonstração de conhecimentos em Business Intelligence.
