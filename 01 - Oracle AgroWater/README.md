@@ -97,28 +97,28 @@ O projeto utiliza **modelagem dimensional com modelo estrela**, tendo `F_Vendas`
 ### Receita Total
 
 ```DAX
-'$ Receita Total' =
+$ Receita Total =
 SUM(F_Vendas[ValorTotal])
 ```
 
 ### Margem
 
 ```DAX
-'$ Margem' =
+$ Margem =
 [$ Receita Total] - [$ Custo Total]
 ```
 
 ### Número de Pedidos
 
 ```DAX
-'Nº de Pedidos' =
+Nº de Pedidos =
 DISTINCTCOUNT(F_Vendas[PedidoID])
 ```
 
 ### Ticket Médio
 
 ```DAX
-'$ Ticket Médio' =
+$ Ticket Médio =
 DIVIDE(
     [$ Receita Total],
     [Nº de Pedidos],
