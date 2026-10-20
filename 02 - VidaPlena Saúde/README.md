@@ -89,7 +89,7 @@ Análise da evolução dos atendimentos, satisfação e tempo médio de espera, 
 
 ## 🧠 Modelo de dados
 
-O projeto utiliza **modelagem dimensional com modelo estrela**, tendo `F_Atendimentos` como tabela fato e dimensões para calendário, hospitais, médicos, especialidades, convênios e pacientes.
+O projeto utiliza modelagem dimensional, com `F_Atendimentos` como tabela fato e dimensões para calendário, hospitais, médicos, especialidades, convênios e pacientes. A estrutura foi organizada para facilitar análises operacionais e filtragem dos indicadores.
 
 ![Modelo de Dados](Imagens/Modelo.jpg)
 
