@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-power_bi.jpg" width="300">
+</p>
+
 # 📊 Portfólio — Business Intelligence
 
 Projetos desenvolvidos para aplicação prática de conhecimentos em
